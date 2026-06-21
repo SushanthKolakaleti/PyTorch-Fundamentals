@@ -27,7 +27,6 @@ Every notebook in this repo runs on the Kaggle environment. For local running, m
 ├── requirements.txt
 ├── readme.md
 ├── SimpleNeuralNetwork
-│   ├── readme.md
 │   ├── inputs
 │   │   └── helper_utils.py
 │   └── notebooks
