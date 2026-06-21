@@ -26,8 +26,14 @@ Every notebook in this repo runs on the Kaggle environment. For local running, m
 .
 ├── requirements.txt
 ├── readme.md
-└── simple neural network
-    ├── input
-    │   └── helper_utils.py
+├── SimpleNeuralNetwork
+│   ├── readme.md
+│   ├── inputs
+│   │   └── helper_utils.py
+│   └── notebooks
+│       └── simple_nn.ipynb
+└── SimpleNN(activation)
+    ├── inputs
+    │   └── helper_utils-2.py
     └── notebooks
-        └── simple_nn.ipynb
+        └── simple_nn_activation.ipynb```
