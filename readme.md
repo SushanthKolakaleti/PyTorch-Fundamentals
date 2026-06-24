@@ -26,6 +26,11 @@ Every notebook in this repo runs on the Kaggle environment. For local running, m
 .
 ├── requirements.txt
 ├── readme.md
+├── MNIST
+│   ├── inputs
+│   │   └── helper_utils-3.py
+│   └── notebooks
+│       └── MNIST.ipynb
 ├── SimpleNeuralNetwork
 │   ├── inputs
 │   │   └── helper_utils.py
