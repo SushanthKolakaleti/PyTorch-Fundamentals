@@ -40,4 +40,5 @@ Every notebook in this repo runs on the Kaggle environment. For local running, m
     ├── inputs
     │   └── helper_utils-2.py
     └── notebooks
-        └── simple_nn_activation.ipynb```
+        └── simple_nn_activation.ipynb
+```
